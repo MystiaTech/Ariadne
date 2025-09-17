@@ -1,3 +1,3 @@
-# Bella
+# Ariadne
 
 A training project
